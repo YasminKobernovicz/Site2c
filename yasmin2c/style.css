@@ -1,0 +1,45 @@
+
+body{
+    background-color: red;
+    text-align: center;
+    }
+    
+    
+    .primeiraparte{
+        background-color: gray;
+        padding: 150px 100px;
+        text-align: center;
+    }
+    
+    .tituloum{
+        font-size: 50px;
+    }
+    
+    .paragrafos{
+        display: inline-block;
+        font-size:30px;
+    }
+    
+    .fototurma{
+        width: 350px;
+        height: 250px;
+    }
+    
+    .estudantes{
+        text-align: center;
+        background-color: a cor que voce quer aqui;
+    }
+    
+    .todososestudantes{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
+    
+    .foto{
+        width: 120px;
+    }
+    
+    footer{
+    text-align: center;
+    }
+    
